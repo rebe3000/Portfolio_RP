@@ -14,7 +14,7 @@ location: "Hauberge, central Germany"
 coordinates: "50.826575, 8.215615"
 map_url: "https://maps.app.goo.gl/1MpTdMcufyoG6VM28"
 map_embed: "https://www.google.com/maps?q=50.826575,8.215615&z=11&output=embed"
-feature_alt: "Ilex hairstreak butterfly on flowering bramble in coppice woodland"
+feature_alt: "Upper and underside views of the female ilex hairstreak (Satyrium ilicis)"
 gallery:
   - file: gallery-transect.webp
     alt: "Butterfly transect survey with insect net in early-successional coppice stand"
