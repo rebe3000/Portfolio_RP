@@ -13,7 +13,7 @@ show_title_as_headline: true
   <article class="w-100 w-third-l ph3 mb4">
     <a class="link db" href="/research/projects/mosquito-dataset/">
       <img class="db w-100 br3 bg-white" style="height: 12rem; object-fit: contain;" src="/img/research/mosquito-dataset-figure.png" alt="Diagram of linked mosquito introduction and trait databases">
-      <h3 class="f4 lh-title mt3 mb2">Two harmonised and standardised datasets: first records of mosquito invasions and species traits</h3>
+      <h3 class="f4 lh-title mt3 mb2">Two harmonised and standardised datasets: First records of mosquito invasions and species traits.</h3>
     </a>
     <p class="f6 lh-copy mt0">I created harmonised global datasets connecting first records of mosquito invasions with biological, ecological, and macroecological species traits.</p>
     <div class="mt3 flex flex-wrap">

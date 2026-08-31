@@ -19,10 +19,10 @@ intro: |
   [NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<br>
   Thesis title: *"Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"*
   - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>2017–2021<br>
-  [University of Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml)<br>
+  [University Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml)<br>
   Thesis title: *"Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"*
   - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>2014–2017<br>
-  [University of Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml/)<br>
+  [University Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml/)<br>
   Thesis title: *"Spatio-temporal variability of CH₄ and CO₂ emissions in the small shallow lake Heideweiher"*
 
   ## Scholarships and additional projects
@@ -38,7 +38,7 @@ intro: |
   - **[AIR Centre](https://aircentre.io/app/sap/)**<span class="meta-dot">∙</span>2023 <br>
   Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural early-warning model.
   - **[RIVERSCALE](https://riverscale-proj.github.io)**<span class="meta-dot">∙</span>2020–2021 <br>
-  FCT research fellowship at CIBIO-InBIO, University of Porto/Lisbon. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
+  FCT research fellowship at CIBIO-InBIO, University of Porto / Lisbon. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
   - **ERASMUS+**<span class="meta-dot">∙</span>2019–2020 <br>
   Exchange at the Faculty of Sciences, University of Lisbon. Courses included environmental geochemistry, GIS, plant ecology, river ecology, and bird ecology. 
   - **Go East Summer School**<span class="meta-dot">∙</span>2019 <br>
@@ -50,11 +50,11 @@ intro: |
 
   - **Deutschlandfunk Nova**<span class="meta-dot">∙</span>2026<br>
   Radio interview: [So kommen Stechmücken durch den Winter](https://www.deutschlandfunknova.de/beitrag/insekten-so-kommen-stechmuecken-durch-den-winter)
-  - **Parasitology in Portuga**<span class="meta-dot">∙</span>2026<br>
+  - **Parasitology in Portugal**<span class="meta-dot">∙</span>2026<br>
   Oral presentation: [Trait-based assessment of invasive mosquitoes — which species are likely to spread next?](https://miguelprudencio.com/wp-content/uploads/2026/03/ParasitologySimposyum26_AbstractBook.pdf)
   - **NOVA Health Conference**<span class="meta-dot">∙</span>2024<br>
   Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf)
-  - **Neobiota Conference)**<span class="meta-dot">∙</span>2024<br>
+  - **Neobiota Conference**<span class="meta-dot">∙</span>2024<br>
   Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf)
   - **IyrCIS Conference**<span class="meta-dot">∙</span>2024<br>
   Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-)

@@ -1,5 +1,5 @@
 ---
-title: "Two harmonised and standardised datasets: first records of mosquito invasions and species traits"
+title: "Two harmonised and standardised datasets: First records of mosquito invasions and species traits."
 description: "Harmonised global data for research on disease-vector mosquito invasions."
 type: page
 layout: research-project

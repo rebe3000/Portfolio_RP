@@ -54,4 +54,4 @@ The field work was done by four students, two each year: Anne Graser, Meike
 Schulz, Marit Kelling, and me.
 
 This work resulted in the following article:
-[Pabst et al. (2023), *Journal of Insect Conservation*](https://doi.org/10.1007/s10841-023-00494-8)
+[Graser et al. (2023), *Journal of Insect Conservation*](https://doi.org/10.1007/s10841-023-00494-8)
