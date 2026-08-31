@@ -1,0 +1,99 @@
+baseURL = "https://rebeccapabst.vercel.app/"
+languageCode = "en"
+title = "Rebecca Pabst"
+author = "Rebecca Pabst"
+theme = "hugo-apero"
+cleanDestinationDir = true
+copyright = ""
+metaDataFormat = "yaml"
+footnoteReturnLinkContents = "&#8617;"
+preserveTaxonomyNames = true
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_cache$", "\\.knit\\.md$", "\\.utf8\\.md$"]
+enableEmoji = true
+
+[pagination]
+  pagerSize = 5
+
+[markup]
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark.renderer]
+    unsafe = true
+    hardwraps = false
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 2
+    ordered = false
+  [markup.highlight]
+    style = "github"
+
+[params]
+  orgName = "Rebecca Pabst"
+  orgLocal = "Lisbon, Portugal"
+  description = "Researcher in spatial ecology, invasive mosquito vectors, and disease risk."
+  mainSections = ["research"]
+  navallcaps = true
+  socialInHeader = false
+  socialInFooter = true
+  theme = "forest"
+  custom_theme = ""
+  customtextFontFamily = "Commissioner"
+  customheadingFontFamily = "Fraunces"
+  textFontFamily = "sans-serif"
+  headingFontFamily = "sans-serif"
+
+  [params.math]
+    renderer = "katex"
+
+# Navigation menu (About, Research, CV)
+[[menu.header]]
+  name = "About"
+  title = "About me"
+  url = "/about/"
+  weight = 1
+
+[[menu.header]]
+  name = "Research"
+  title = "Research"
+  url = "/research/"
+  weight = 2
+
+[[menu.header]]
+  name = "CV"
+  title = "Curriculum Vitae"
+  url = "/files/cv.pdf"
+  weight = 3
+
+[[params.social]]
+  icon = "github"
+  icon_pack = "fab"
+  url = "https://github.com/rebe3000"
+
+[[params.social]]
+  icon = "linkedin"
+  icon_pack = "fab"
+  url = "https://www.linkedin.com/in/rebecca-pabst-028b0a210"
+
+[[params.social]]
+  icon = "google-scholar"
+  icon_pack = "fab"
+  url = "https://scholar.google.com/citations?user=xg002ygAAAAJ&hl=en&oi=ao"
+
+[[params.social]]
+  icon = "orcid"
+  icon_pack = "fab"
+  url = "https://orcid.org/0000-0002-6132-0572"
+
+[[params.social]]
+  icon = "researchgate"
+  icon_pack = "fab"
+  url = "https://www.researchgate.net/profile/Rebecca-Pabst"
+
+[[params.social]]
+  icon = "envelope"
+  icon_pack = "fas"
+  url = "mailto:pabst.rebecca@proton.me"
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"

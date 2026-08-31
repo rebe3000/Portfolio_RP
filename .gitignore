@@ -1,0 +1,32 @@
+# Hugo / blogdown build output
+public/
+resources/
+.hugo_build.lock
+
+# R
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+*.Rproj
+
+# LaTeX build files
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.swp
+*~
+
+# Vercel local project settings
+.vercel/
+.vercel
