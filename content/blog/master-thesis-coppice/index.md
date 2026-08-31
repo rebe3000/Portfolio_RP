@@ -16,6 +16,8 @@ map_url: "https://maps.app.goo.gl/1MpTdMcufyoG6VM28"
 map_embed: "https://www.google.com/maps?q=50.826575,8.215615&z=11&output=embed"
 feature_alt: "Upper and underside views of the female ilex hairstreak (Satyrium ilicis)"
 gallery:
+  - file: gallery-hairstreak-field.webp
+    alt: "Ilex hairstreak resting on flowering bramble in coppice woodland"
   - file: gallery-transect.webp
     alt: "Butterfly transect survey with insect net in early-successional coppice stand"
   - file: gallery-fritillary.webp
