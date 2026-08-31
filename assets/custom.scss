@@ -30,6 +30,12 @@
   height: auto;
 }
 
+@media screen and (min-width: 60em) {
+  .research-project-media img {
+    width: 90%;
+  }
+}
+
 .education-list,
 h2#education + ul {
   list-style: none;
