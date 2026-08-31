@@ -11,7 +11,7 @@ location: "Unteres Odertal, Germany"
 coordinates: "53.038186, 14.276786"
 map_url: "https://maps.app.goo.gl/rVtyXzUoLubqhH9t9"
 map_embed: "https://www.google.com/maps?q=53.038186,14.276786&z=11&output=embed"
-feature_alt: "Fieldwork in the Unteres Odertal floodplain landscape"
+feature_alt: "Students during fieldwork in the Unteres Odertal"
 ---
 
 This excursion focused on habitat mapping, identification, and assessment of

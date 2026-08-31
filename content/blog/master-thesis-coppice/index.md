@@ -16,9 +16,6 @@ map_url: "https://maps.app.goo.gl/1MpTdMcufyoG6VM28"
 map_embed: "https://www.google.com/maps?q=50.826575,8.215615&z=11&output=embed"
 feature_alt: "Ilex hairstreak butterfly on flowering bramble in coppice woodland"
 gallery:
-  - file: gallery-field-group.webp
-    alt: "Field team during butterfly surveys in coppice woodland"
-    wide: true
   - file: gallery-transect.webp
     alt: "Butterfly transect survey with insect net in early-successional coppice stand"
   - file: gallery-fritillary.webp
