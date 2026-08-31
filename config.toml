@@ -46,7 +46,7 @@ enableEmoji = true
   [params.math]
     renderer = "katex"
 
-# Navigation menu (About, Research, CV)
+# Navigation menu
 [[menu.header]]
   name = "About"
   title = "About me"
@@ -60,10 +60,16 @@ enableEmoji = true
   weight = 2
 
 [[menu.header]]
+  name = "Blog"
+  title = "Projects and excursions"
+  url = "/blog/"
+  weight = 3
+
+[[menu.header]]
   name = "CV"
   title = "Curriculum Vitae"
   url = "/files/cv.pdf"
-  weight = 3
+  weight = 4
 
 [[params.social]]
   icon = "github"

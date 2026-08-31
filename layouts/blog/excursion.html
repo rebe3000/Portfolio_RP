@@ -1,0 +1,72 @@
+{{ define "main" }}
+<main class="page-main pa4 excursion-page" role="main">
+  <section class="page-content mw8 center">
+    <header class="excursion-header mb4">
+      <p class="f6 ttu tracked mb2">Field excursion</p>
+      <h1 class="f2 f1-m fw5 mv2 lh-title">{{ .Title }}</h1>
+      <div class="excursion-meta f6 lh-copy">
+        <span><i class="far fa-calendar fa-fw mr1"></i>{{ .Params.excursion_dates }}</span>
+        <span><i class="fas fa-user fa-fw mr1"></i>Led by {{ .Params.leader }}</span>
+        <span><i class="fas fa-location-dot fa-fw mr1"></i>{{ .Params.location }}</span>
+      </div>
+    </header>
+
+    <div class="flex-l nl3 nr3 items-start">
+      <article class="excursion-content w-two-thirds-l w-100 ph3">
+        {{ with .Resources.GetMatch "feature*" }}
+        <figure class="excursion-hero mt0 mb4">
+          <img src="{{ .RelPermalink }}" alt="Open Western Siberian grassland beneath a broad summer sky">
+        </figure>
+        {{ end }}
+
+        <div class="f4 lh-copy measure-wide mb4">
+          {{ .Content }}
+        </div>
+
+        <div class="excursion-gallery" aria-label="Photographs from the Western Siberia excursion">
+          {{ with .Resources.GetMatch "field-group*" }}
+          <figure class="gallery-wide">
+            <img src="{{ .RelPermalink }}" alt="Students examining vegetation during fieldwork in Western Siberia">
+          </figure>
+          {{ end }}
+          {{ with .Resources.GetMatch "sundew*" }}
+          <figure>
+            <img src="{{ .RelPermalink }}" alt="Sundew plants growing in a Western Siberian peatland">
+          </figure>
+          {{ end }}
+          {{ with .Resources.GetMatch "mosquitoes-fieldwork*" }}
+          <figure>
+            <img src="{{ .RelPermalink }}" alt="Mosquitoes resting on field clothing during the excursion">
+          </figure>
+          {{ end }}
+          {{ with .Resources.GetMatch "mosquito-cartoon*" }}
+          <figure>
+            <img src="{{ .RelPermalink }}" alt="Humorous Russian illustration of a mosquito refuelling">
+          </figure>
+          {{ end }}
+        </div>
+      </article>
+
+      <aside class="excursion-sidebar w-third-l w-100 ph3 mt4 mt0-l">
+        <div class="excursion-map">
+          <h2 class="f4 mt0 mb3">Excursion location</h2>
+          <div class="map-frame">
+            <iframe
+              src="{{ .Params.map_embed }}"
+              title="Map showing the Western Siberia excursion location"
+              loading="lazy"
+              referrerpolicy="no-referrer-when-downgrade">
+            </iframe>
+          </div>
+          <p class="f7 lh-copy mb2">{{ .Params.coordinates }}</p>
+          <a class="f6" href="{{ .Params.map_url }}" target="_blank" rel="noopener">
+            Open location in Google Maps <i class="fas fa-arrow-up-right-from-square fa-xs ml1"></i>
+          </a>
+        </div>
+      </aside>
+    </div>
+
+    <p class="mt5"><a href="/blog/">← Back to Blog</a></p>
+  </section>
+</main>
+{{ end }}
