@@ -21,4 +21,21 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // initialise
   headroom.init();
+
+  document.querySelectorAll('.email-link').forEach(function (link) {
+    link.addEventListener('click', function () {
+      const email = link.getAttribute('data-email');
+      if (!email || !navigator.clipboard) {
+        return;
+      }
+
+      navigator.clipboard.writeText(email).then(function () {
+        const original = link.getAttribute('title');
+        link.setAttribute('title', 'Email copied to clipboard');
+        window.setTimeout(function () {
+          link.setAttribute('title', original);
+        }, 2000);
+      });
+    });
+  });
 });
