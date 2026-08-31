@@ -6,12 +6,8 @@ layout: standard
 show_title_as_headline: true
 ---
 
-My research connects landscape ecology, biological invasions, spatial data
-science, and public health. I compile and analyse information from multiple
-sources to understand how disease-vector mosquitoes spread and how their
-changing distributions affect potential disease transmission.
 
-## Selected research contributions
+## Selected research projects
 
 <div class="flex-l nl3 nr3 mb5 items-stretch">
   <article class="w-100 w-third-l ph3 mb4">

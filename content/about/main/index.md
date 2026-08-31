@@ -5,7 +5,7 @@ use_featured: false
 number_categories: 0
 show_intro: true
 intro: |
-  I am Rebecca, a researcher at the Institute of Hygiene and Tropical Medicine, NOVA University Lisbon (IHMT NOVA). I hold a Bachelor and Master of Science in landscape ecology from the Universität Münster and completed my PhD in Global Health and Tropical Medicine (IHMT NOVA) in collaboration with the University of Lisbon’s Institute of Geography (IGOT ULISBOA).
+  I am Rebecca, a researcher at the Institute of Hygiene and Tropical Medicine, NOVA University Lisbon (IHMT NOVA). I hold a Bachelor and Master of Science in landscape ecology from the Universität Münster (ILÖK WWU) and completed my PhD in Global Health and Tropical Medicine (IHMT NOVA) in collaboration with the University of Lisbon’s Institute of Geography (IGOT ULISBOA).
 
   My research combines ecology, biological invasions, data science, and public health. I study the spread of invasive mosquito species that transmit diseases to humans, with a particular interest in understanding how these vectors expand into new regions and how their changing distributions affect the geography of mosquito-borne diseases.
 
@@ -19,11 +19,11 @@ intro: |
   [NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<br>
   Thesis title: *"Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"*
   - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>2017–2021<br>
-  [University of Münster](https://www.uni-muenster.de/)<br>
+  [University of Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml)<br>
   Thesis title: *"Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"*
   - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>2014–2017<br>
-  [University of Münster](https://www.uni-muenster.de/)<br>
-  Thesis title: *"Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher"*
+  [University of Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml/)<br>
+  Thesis title: *"Spatio-temporal variability of CH{\footnotesize 4} and CO₂ emissions in the small shallow lake Heideweiher"*
 
   ## Scholarships and additional projects
 
