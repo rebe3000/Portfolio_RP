@@ -1,6 +1,6 @@
 ---
 title: "Bachelor thesis: Heideweiher lake"
-date: 2017-04-01
+date: 2017-08-31
 description: "Spatio-temporal variability of CH₄ and CO₂ emissions in the small shallow lake Heideweiher."
 excerpt: "Measuring greenhouse-gas fluxes from a small shallow lake using a floating climate station, chamber measurements, and sediment incubations."
 type: blog

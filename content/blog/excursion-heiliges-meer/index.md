@@ -1,6 +1,6 @@
 ---
 title: "Excursion to Heiliges Meer"
-date: 2019-07-22
+date: 2019-07-26
 description: "Applying biogeochemical methods to study gas fluxes from small, shallow lakes at Heiliges Meer."
 excerpt: "Learning and applying biogeochemical methods to measure CO₂ fluxes and understand gas cycles in small, shallow lakes."
 type: blog

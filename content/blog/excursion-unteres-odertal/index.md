@@ -1,6 +1,6 @@
 ---
 title: "Excursion to Unteres Odertal"
-date: 2019-08-01
+date: 2019-08-31
 description: "Habitat mapping and assessment of Habitats Directive habitat types in the Lower Oder Valley."
 excerpt: "Mapping habitats and assessing the condition of Habitats Directive habitat types in the Unteres Odertal."
 type: blog

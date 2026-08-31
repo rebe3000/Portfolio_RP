@@ -1,6 +1,6 @@
 ---
 title: "Master thesis: Coppice woodlands"
-date: 2019-05-01
+date: 2020-06-30
 description: "Temporal transferability of habitat models for the ilex hairstreak in active coppice woodlands."
 excerpt: "Modelling ilex hairstreak occurrence across a rotational mosaic of coppice woodland ages in central Germany."
 type: blog

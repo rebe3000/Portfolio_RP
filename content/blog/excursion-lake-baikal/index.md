@@ -1,6 +1,6 @@
 ---
 title: "Excursion to Lake Baikal"
-date: 2019-08-26
+date: 2019-09-10
 description: "DAAD Go East summer school on the nature and ecology of Lake Baikal, Russia."
 excerpt: "A Go East summer school exploring plants, landscapes, and culture around Lake Baikal and the Tasheran Steppe."
 type: blog

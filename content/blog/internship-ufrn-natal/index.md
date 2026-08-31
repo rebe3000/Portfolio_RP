@@ -1,6 +1,6 @@
 ---
 title: "Internship at UFRN, Natal, Brazil"
-date: 2016-09-01
+date: 2016-12-31
 description: "Research internship investigating fossil assemblages from the Santana Formation using SEM and microfossil identification."
 excerpt: "Processing rock samples and identifying ostracod species from the Santana Formation to reconstruct past environmental conditions."
 type: blog

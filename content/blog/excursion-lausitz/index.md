@@ -1,6 +1,6 @@
 ---
 title: "Excursion to the Lausitz"
-date: 2019-07-16
+date: 2019-07-19
 description: "Biochemical analysis of acidified mining lakes following lignite opencast mining in the Lausitz."
 excerpt: "Studying what happens after lignite opencast mining through biochemical analysis of acidified lakes now used for local recreation."
 type: blog

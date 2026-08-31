@@ -1,6 +1,6 @@
 ---
 title: "Excursion to Western Siberia"
-date: 2015-08-10
+date: 2015-08-21
 description: "A field excursion from Tyumen to Khanty-Mansiysk exploring land-use change, floodplains, peatlands, fire regimes, and regional culture."
 excerpt: "Travelling from Tyumen to Khanty-Mansiysk to explore how oil production, urbanisation, agriculture, and fire shape Western Siberian landscapes."
 type: blog
