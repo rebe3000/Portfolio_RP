@@ -15,39 +15,42 @@ intro: |
 
   ## Education
 
-  - **PhD in Global Health and Tropical Medicine**	∙	[NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)	∙	2022–2026
-  - **MSc in Landscape Ecology**	∙	[University of Münster](https://www.uni-muenster.de/)	∙	2017–2021
-  - **BSc in Landscape Ecology**	∙	 [University of Münster](https://www.uni-muenster.de/)	∙	2014–2017
+  - **PhD in Global Health and Tropical Medicine**<span class="meta-dot">∙</span>[NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<span class="meta-dot">∙</span>2022–2026<br>
+  Thesis title: "Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"
+  - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2017–2021<br>
+  Thesis title: "Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"
+  - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2014–2017<br>
+  Thesis title: "Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher"
 
   ## Scholarships and additional projects
 
-  - **INOVEC**	∙	2025 <br>
-  Field testing of mosquito traps with Biogents AG, Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance. 
-  - **InvaPact III**	∙	2025 <br>
-  Workshop at Institut Pascal, Université Paris-Saclay, Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts. 
-  - **InvaPact II**	∙	2024 <br>
+  - **INOVEC**<span class="meta-dot">∙</span>2025 <br>
+  Field testing of mosquito traps with Biogents AG, Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance in high and low vector abundance settings. 
+  - **[InvaPact III](https://www.biodiversitydynamics.fr/invapact3/)**<span class="meta-dot">∙</span>2025 <br>
+  Workshop in Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts. 
+  - **[InvaPact II](https://www.biodiversitydynamics.fr/invapact-ii-workshop/)**<span class="meta-dot">∙</span>2024 <br>
   Workshop at Institut Pascal, Paris, France. Worked in an interdisciplinary team to develop a shared framework for classifying and comparing invasive-species impacts.
-  - **IWR Summer School**	∙	2024  <br>
-  *Applied Modelling of Climate-Sensitive Infectious Diseases*, Interdisciplinary Center for Scientific Computing, Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
-  - **AIR Centre**	∙	2023 <br>
+  - **IWR Summer School**<span class="meta-dot">∙</span>2024  <br>
+  *Applied Modelling of Climate-Sensitive Infectious Diseases* at Interdisciplinary Center for Scientific Computing, Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
+  - **[AIR Centre](https://aircentre.io/app/sap/)**<span class="meta-dot">∙</span>2023 <br>
   Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural early-warning model.
-  - **RIVERSCALE**	∙	2020–2021 <br>
-  FCT research fellowship at CIBIO-InBIO, University of Porto. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
-  - **ERASMUS+**	∙	2019–2020 <br>
+  - **[RIVERSCALE](https://riverscale-proj.github.io)**<span class="meta-dot">∙</span>2020–2021 <br>
+  FCT research fellowship at CIBIO-InBIO, University of Porto/Lisbon. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
+  - **ERASMUS+**<span class="meta-dot">∙</span>2019–2020 <br>
   Exchange at the Faculty of Sciences, University of Lisbon. Courses included environmental geochemistry, GIS, plant ecology, river ecology, and bird ecology. 
-  - **Go East Summer School**	∙	2019 <br>
+  - **Go East Summer School**<span class="meta-dot">∙</span>2019 <br>
   DAAD scholarship at Lake Baikal, Russia. Summer school on conservation and ecology of the Lake Baikal region.
-  - **Internship in Geology and Geophysics**	∙	2016 <br>
+  - **Internship in Geology and Geophysics**<span class="meta-dot">∙</span>2016 <br>
   DAAD scholarship at UFRN, Natal, Brazil. Analysis of rock samples for climate reconstruction using fossil ostracod records.
 
   ## Conferences and science communication
 
-  - **Deutschlandfunk Nova**	∙	Radio interview: [So kommen Stechmücken durch den Winter](https://www.deutschlandfunknova.de/beitrag/insekten-so-kommen-stechmuecken-durch-den-winter)	∙	2026 
-  - **Parasitology in Portuga**	∙	Oral presentation: [Trait-based assessment of invasive mosquitoes — which species are likely to spread next?](https://miguelprudencio.com/wp-content/uploads/2026/03/ParasitologySimposyum26_AbstractBook.pdf)	∙	2026
-  - **NOVA Health Conference**	∙	Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf)	∙	2024
-  - **Neobiota Conference)**	∙	Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf)	∙	2024
-  - **IyrCIS Conference**	∙	 Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-)	∙	2024
-  - **TiBe Conference**	∙	Poster presentation: [Invasion patterns of alien disease vector mosquitoes worldwide](https://drive.google.com/file/d/1Sp1OJe7K_T-slImjc8w4OMFJR629cZ_P/view)	∙	2023
+  - **Deutschlandfunk Nova**<span class="meta-dot">∙</span>Radio interview: [So kommen Stechmücken durch den Winter](https://www.deutschlandfunknova.de/beitrag/insekten-so-kommen-stechmuecken-durch-den-winter)<span class="meta-dot">∙</span>2026 
+  - **Parasitology in Portuga**<span class="meta-dot">∙</span>Oral presentation: [Trait-based assessment of invasive mosquitoes — which species are likely to spread next?](https://miguelprudencio.com/wp-content/uploads/2026/03/ParasitologySimposyum26_AbstractBook.pdf)<span class="meta-dot">∙</span>2026
+  - **NOVA Health Conference**<span class="meta-dot">∙</span>Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf)<span class="meta-dot">∙</span>2024
+  - **Neobiota Conference)**<span class="meta-dot">∙</span>Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf)<span class="meta-dot">∙</span>2024
+  - **IyrCIS Conference**<span class="meta-dot">∙</span>Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-)<span class="meta-dot">∙</span>2024
+  - **TiBe Conference**<span class="meta-dot">∙</span>Poster presentation: [Invasion patterns of alien disease vector mosquitoes worldwide](https://drive.google.com/file/d/1Sp1OJe7K_T-slImjc8w4OMFJR629cZ_P/view)<span class="meta-dot">∙</span>2023
 
 show_outro: true
 outro: |
