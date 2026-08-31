@@ -18,7 +18,7 @@ intro: |
   - **PhD in Global Health and Tropical Medicine**<span class="meta-dot">∙</span>[NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<span class="meta-dot">∙</span>2022–2026<br>
   Thesis title: *Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes*
   - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2017–2021<br>
-  Thesis title: *Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands*
+  Thesis title: *Temporal transferability of habitat models on the occurrence of ilex hairstreak (*Satyrium ilicis*) in active coppice woodlands*
   - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2014–2017<br>
   Thesis title: *Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher*
 
@@ -31,7 +31,7 @@ intro: |
   - **[InvaPact II](https://www.biodiversitydynamics.fr/invapact-ii-workshop/)**<span class="meta-dot">∙</span>2024 <br>
   Workshop at Institut Pascal, Paris, France. Worked in an interdisciplinary team to develop a shared framework for classifying and comparing invasive-species impacts.
   - **IWR Summer School**<span class="meta-dot">∙</span>2024  <br>
-  *Applied Modelling of Climate-Sensitive Infectious Diseases* at Interdisciplinary Center for Scientific Computing, Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
+  Applied Modelling of Climate-Sensitive Infectious Diseases at the Interdisciplinary Center for Scientific Computing, Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
   - **[AIR Centre](https://aircentre.io/app/sap/)**<span class="meta-dot">∙</span>2023 <br>
   Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural early-warning model.
   - **[RIVERSCALE](https://riverscale-proj.github.io)**<span class="meta-dot">∙</span>2020–2021 <br>
