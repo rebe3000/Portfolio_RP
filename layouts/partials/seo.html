@@ -1,0 +1,34 @@
+{{ $sameAs := slice }}
+{{ range site.Params.social }}
+  {{ if and .url (ne .icon "envelope") }}
+    {{ $sameAs = $sameAs | append .url }}
+  {{ end }}
+{{ end }}
+
+<link rel="canonical" href="{{ .Permalink }}">
+<meta name="author" content="{{ site.Params.author | default site.Title }}">
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Rebecca Pabst",
+  "url": "https://rebeccapabst.vercel.app/",
+  "jobTitle": "Researcher in spatial ecology, invasive mosquito vectors, and disease risk",
+  "description": "Rebecca Pabst, researcher in spatial ecology, invasive mosquito vectors, and disease risk at IHMT NOVA, Lisbon.",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Institute of Hygiene and Tropical Medicine, NOVA University Lisbon"
+  },
+  "address": {
+    "@type": "PostalAddress",
+    "addressLocality": "Lisbon",
+    "addressCountry": "PT"
+  },
+  "sameAs": [
+    {{- range $i, $url := $sameAs -}}
+      {{- if $i }},{{ end -}}
+      {{ printf "%q" $url | safeJS }}
+    {{- end -}}
+  ]
+}
+</script>

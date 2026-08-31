@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rebeccapabst.vercel.app/sitemap.xml

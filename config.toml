@@ -4,6 +4,7 @@ title = "Rebecca Pabst"
 author = "Rebecca Pabst"
 theme = "hugo-apero"
 cleanDestinationDir = true
+enableRobotsTXT = true
 copyright = ""
 metaDataFormat = "yaml"
 footnoteReturnLinkContents = "&#8617;"
@@ -29,7 +30,8 @@ enableEmoji = true
 [params]
   orgName = "Rebecca Pabst"
   orgLocal = "Lisbon, Portugal"
-  description = "Researcher in spatial ecology, invasive mosquito vectors, and disease risk."
+  description = "Rebecca Pabst — researcher in spatial ecology, invasive mosquito vectors, and disease risk at IHMT NOVA, Lisbon."
+  sharing_image = "/img/landing-profile.png"
   mainSections = ["research"]
   navallcaps = true
   socialInHeader = false
