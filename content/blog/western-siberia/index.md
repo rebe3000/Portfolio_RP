@@ -11,6 +11,17 @@ location: "Western Siberia, Russia"
 coordinates: "57.156167, 65.536588"
 map_url: "https://maps.app.goo.gl/n2SR9rJDn2nZJH8w5"
 map_embed: "https://www.google.com/maps?q=57.156167,65.536588&z=3&output=embed"
+feature_alt: "Open Western Siberian grassland beneath a broad summer sky"
+gallery:
+  - file: field-group.webp
+    alt: "Students examining vegetation during fieldwork in Western Siberia"
+    wide: true
+  - file: sundew.webp
+    alt: "Sundew plants growing in a Western Siberian peatland"
+  - file: mosquitoes-fieldwork.webp
+    alt: "Mosquitoes resting on field clothing during the excursion"
+  - file: mosquito-cartoon.webp
+    alt: "Humorous Russian illustration of a mosquito refuelling"
 ---
 
 The excursion took us through Western Siberia from Tyumen (Тюмень) to

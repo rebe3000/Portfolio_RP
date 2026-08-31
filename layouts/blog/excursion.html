@@ -2,11 +2,14 @@
 <main class="page-main pa4 excursion-page" role="main">
   <section class="page-content mw8 center">
     <header class="excursion-header mb4">
-      <p class="f6 ttu tracked mb2">Field excursion</p>
+      <p class="f6 ttu tracked mb2">{{ .Params.entry_type | default "Field excursion" }}</p>
       <h1 class="f2 f1-m fw5 mv2 lh-title">{{ .Title }}</h1>
+      {{ with .Params.subtitle }}
+      <h2 class="f4 fw4 measure-wide mt0 mb3">{{ . }}</h2>
+      {{ end }}
       <div class="excursion-meta f6 lh-copy">
         <span><i class="far fa-calendar fa-fw mr1"></i>{{ .Params.excursion_dates }}</span>
-        <span><i class="fas fa-user fa-fw mr1"></i>Led by {{ .Params.leader }}</span>
+        <span><i class="fas fa-user fa-fw mr1"></i>{{ .Params.leader_label | default "Led by" }} {{ .Params.leader }}</span>
         <span><i class="fas fa-location-dot fa-fw mr1"></i>{{ .Params.location }}</span>
       </div>
     </header>
@@ -15,7 +18,7 @@
       <article class="excursion-content w-two-thirds-l w-100 ph3">
         {{ with .Resources.GetMatch "feature*" }}
         <figure class="excursion-hero mt0 mb4">
-          <img src="{{ .RelPermalink }}" alt="Open Western Siberian grassland beneath a broad summer sky">
+          <img src="{{ .RelPermalink }}" alt="{{ $.Params.feature_alt | default $.Title }}">
         </figure>
         {{ end }}
 
@@ -23,37 +26,28 @@
           {{ .Content }}
         </div>
 
-        <div class="excursion-gallery" aria-label="Photographs from the Western Siberia excursion">
-          {{ with .Resources.GetMatch "field-group*" }}
-          <figure class="gallery-wide">
-            <img src="{{ .RelPermalink }}" alt="Students examining vegetation during fieldwork in Western Siberia">
-          </figure>
-          {{ end }}
-          {{ with .Resources.GetMatch "sundew*" }}
-          <figure>
-            <img src="{{ .RelPermalink }}" alt="Sundew plants growing in a Western Siberian peatland">
-          </figure>
-          {{ end }}
-          {{ with .Resources.GetMatch "mosquitoes-fieldwork*" }}
-          <figure>
-            <img src="{{ .RelPermalink }}" alt="Mosquitoes resting on field clothing during the excursion">
-          </figure>
-          {{ end }}
-          {{ with .Resources.GetMatch "mosquito-cartoon*" }}
-          <figure>
-            <img src="{{ .RelPermalink }}" alt="Humorous Russian illustration of a mosquito refuelling">
-          </figure>
+        {{ with .Params.gallery }}
+        <div class="excursion-gallery" aria-label="Photographs from {{ $.Title }}">
+          {{ range . }}
+            {{ $item := . }}
+            {{ $img := $.Resources.GetMatch $item.file }}
+            {{ with $img }}
+            <figure{{ if $item.wide }} class="gallery-wide"{{ end }}>
+              <img src="{{ .RelPermalink }}" alt="{{ $item.alt }}">
+            </figure>
+            {{ end }}
           {{ end }}
         </div>
+        {{ end }}
       </article>
 
       <aside class="excursion-sidebar w-third-l w-100 ph3 mt4 mt0-l">
         <div class="excursion-map">
-          <h2 class="f4 mt0 mb3">Excursion location</h2>
+          <h2 class="f4 mt0 mb3">{{ .Params.map_heading | default "Location" }}</h2>
           <div class="map-frame">
             <iframe
               src="{{ .Params.map_embed }}"
-              title="Map showing the Western Siberia excursion location"
+              title="Map showing the location of {{ .Title }}"
               loading="lazy"
               referrerpolicy="no-referrer-when-downgrade">
             </iframe>
