@@ -16,6 +16,10 @@ gallery:
   - file: gallery-excavator.webp
     alt: "Bucket-wheel excavator in an active lignite open-cast mine"
     wide: true
+  - file: gallery-boat.webp
+    alt: "Research boat on a post-mining lake in the Lausitz"
+  - file: gallery-sediment-cores.webp
+    alt: "Examining sediment cores from a lake shore during fieldwork"
   - file: gallery-lake-sampling.webp
     alt: "Biochemical water sampling on the shore of an acidified mining lake"
 ---
