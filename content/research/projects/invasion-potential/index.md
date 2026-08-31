@@ -2,13 +2,12 @@
 title: "Forecasting the next invasive mosquito species"
 description: "Using species traits and machine learning to anticipate future mosquito invasions."
 type: page
-layout: standard
+layout: research-project
 show_title_as_headline: true
+image: /img/research/invasion-potential-publication.png
+image_alt: "PLOS Neglected Tropical Diseases publication page for mosquito invasion potential"
+publication: '*Associated publication: [PLOS Neglected Tropical Diseases, 2026](https://doi.org/10.1371/journal.pntd.0014538)*'
 ---
-
-*Associated publication: [PLOS Neglected Tropical Diseases, 2026](https://doi.org/10.1371/journal.pntd.0014538)*
-
-![PLOS Neglected Tropical Diseases publication page for mosquito invasion potential](/img/research/invasion-potential-publication.png)
 
 ## Overview
 

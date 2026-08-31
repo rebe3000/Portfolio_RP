@@ -2,14 +2,12 @@
 title: "Spatial and temporal patterns of global mosquito invasions"
 description: "Reconstructing how human-mediated mosquito invasions have unfolded worldwide."
 type: page
-layout: standard
+layout: research-project
 show_title_as_headline: true
+image: /img/research/global-invasion-patterns-publication.png
+image_alt: "Nature Communications publication page for global mosquito invasion patterns"
+publication: '*Associated publication: [Nature Communications, 2025](https://doi.org/10.1038/s41467-025-64446-3)*'
 ---
-
-*Associated publication: [Nature Communications, 2025](https://doi.org/10.1038/s41467-025-64446-3)*
-
-![Nature Communications publication page for global mosquito invasion patterns](/img/research/global-invasion-patterns-publication.png)
-
 
 ## Overview
 

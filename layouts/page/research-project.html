@@ -1,0 +1,22 @@
+{{ define "main" }}
+<main class="page-main pa4 research-project-page" role="main">
+  <section class="page-content mw8 center">
+    {{ if .Params.show_title_as_headline }}
+    <h1 class="research-project-title fw5-ns mv3 lh-title tracked-tight-ns">{{ .Title }}</h1>
+    {{ end }}
+    <div class="flex-l nl3 nr3 items-start">
+      <aside class="research-project-media w-third-l w-100 ph3 mb4 mb0-l">
+        {{ with .Params.image }}
+        <img class="db" src="{{ . }}" alt="{{ $.Params.image_alt | default "" }}">
+        {{ end }}
+        {{ with .Params.publication }}
+        <p class="f6 lh-copy mt3 mb0">{{ . | markdownify }}</p>
+        {{ end }}
+      </aside>
+      <div class="research-project-body w-two-thirds-l w-100 ph3">
+        {{ .Content }}
+      </div>
+    </div>
+  </section>
+</main>
+{{ end }}

@@ -14,6 +14,22 @@
   font-style: italic;
 }
 
+.research-project-page .research-project-title {
+  font-size: 1.25rem;
+}
+
+@media screen and (min-width: 60em) {
+  .research-project-page .research-project-title {
+    font-size: 3rem;
+  }
+}
+
+.research-project-media img {
+  width: 70%;
+  max-width: 100%;
+  height: auto;
+}
+
 .education-list,
 h2#education + ul {
   list-style: none;

@@ -2,14 +2,12 @@
 title: "Two harmonised and standardised datasets: first records of mosquito invasions and species traits"
 description: "Harmonised global data for research on disease-vector mosquito invasions."
 type: page
-layout: standard
+layout: research-project
 show_title_as_headline: true
+image: /img/research/mosquito-dataset-publication.png
+image_alt: "Scientific Data publication page for the global mosquito dataset"
+publication: '*Associated publication: [Scientific Data, 2026](https://doi.org/10.1038/s41597-026-07891-z)*'
 ---
-
-*Associated publication: [Scientific Data, 2026](https://doi.org/10.1038/s41597-026-07891-z)*
-
-![Scientific Data publication page for the global mosquito dataset](/img/research/mosquito-dataset-publication.png)
-
 
 ## Overview
 
