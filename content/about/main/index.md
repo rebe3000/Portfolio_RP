@@ -9,7 +9,7 @@ intro: |
 
   My research combines ecology, biological invasions, data science, and public health. I study the spread of invasive mosquito species that transmit diseases to humans, with a particular interest in understanding how these vectors expand into new regions and how their changing distributions affect the geography of mosquito-borne diseases.
 
-  Much of my work involves bringing together fragmented data from different sources to build comprehensive records of mosquito invasions. I use spatial analysis, ecological modelling, and ML forecasting approaches.
+  Much of my work involves bringing together fragmented data from different sources manually as well as automated, spatial analysis, ecological modelling, and ML forecasting approaches.
 
   Through my research, I aim to improve our understanding of emerging public-health risks and contribute evidence that can support mosquito surveillance, preparedness, and disease prevention.
 

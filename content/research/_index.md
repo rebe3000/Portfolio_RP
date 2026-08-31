@@ -56,14 +56,14 @@ show_title_as_headline: true
   [Interactive visualisation](https://global-mosquito-presence.vercel.app).
 - <strong class="publication-author">Pabst, R.</strong>, Sousa, C. A., Capinha, C.
   [Trait-based prediction of disease-vector mosquito invasion potential](https://doi.org/10.1371/journal.pntd.0014538).
-  *PLOS Neglected Tropical Diseases*.
+  *PLOS Neglected Tropical Diseases*. [Data and code](https://github.com/rebe3000/mosquitoinvasionpotential)
 
 ### 2025
 
 - <strong class="publication-author">Pabst, R.</strong>, Sousa, C. A., Essl, F., García-Rodríguez, A., Liu, D.,
   Lenzner, B., et al.
   [Global invasion patterns and dynamics of disease-vector mosquitoes](https://doi.org/10.1038/s41467-025-64446-3).
-  *Nature Communications*. [Data and analysis code](https://doi.org/10.5281/zenodo.15731142).
+  *Nature Communications*. [Data and code](https://doi.org/10.5281/zenodo.15731142).
 
 ### 2024
 
