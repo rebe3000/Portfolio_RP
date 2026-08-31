@@ -1,17 +1,45 @@
 ---
-title: "Hello :)"
+title: ""
 number_featured: 0
 use_featured: false
 number_categories: 0
 show_intro: true
 intro: |
-  I am a researcher at the Institute of Hygiene and Tropical Medicine, NOVA University Lisbon (IHMT NOVA). I have a background in landscape ecology and completed my PhD in Global Health and Tropical Medicine in collaboration with the University of Lisbon’s Institute of Geography (IGOT ULISBOA).
+  I am Rebecca, a researcher at the Institute of Hygiene and Tropical Medicine, NOVA University Lisbon (IHMT NOVA). I hold a Bachelor and Master of Science in landscape ecology from the Universität Münster and completed my PhD in Global Health and Tropical Medicine (IHMT NOVA) in collaboration with the University of Lisbon’s Institute of Geography (IGOT ULISBOA).
 
-  My research lies at the intersection of ecology, biological invasions, data science, and public health. I study the spread of invasive mosquito species that transmit diseases to humans, with a particular interest in understanding how these vectors expand into new regions and how their changing distributions affect patterns of disease risk.
+  My research combines ecology, biological invasions, data science, and public health. I study the spread of invasive mosquito species that transmit diseases to humans, with a particular interest in understanding how these vectors expand into new regions and how their changing distributions affect the geography of mosquito-borne diseases.
 
-  Much of my work involves bringing together fragmented data from different sources to build comprehensive records of mosquito invasions. I use spatial analysis, ecological modelling, and forecasting approaches to identify patterns and drivers of spread, determine which species might spread next, and explore how mosquito expansion could alter the geography of mosquito-borne diseases.
+  Much of my work involves bringing together fragmented data from different sources to build comprehensive records of mosquito invasions. I use spatial analysis, ecological modelling, and ML forecasting approaches.
 
-  More broadly, I am interested in how human activities and environmental conditions interact to shape the distribution of disease vectors. Through my research, I aim to improve our understanding of emerging public-health risks and contribute evidence that can support mosquito surveillance, preparedness, and disease prevention.
+  Through my research, I aim to improve our understanding of emerging public-health risks and contribute evidence that can support mosquito surveillance, preparedness, and disease prevention.
+
+  ## Education
+
+  - **PhD in Global Health and Tropical Medicine** (2022–2026), [NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)
+  - **MSc in Landscape Ecology** (2017–2021), [University of Münster](https://www.uni-muenster.de/)
+  - **BSc in Landscape Ecology** (2014–2017), [University of Münster](https://www.uni-muenster.de/)
+
+  ## Scholarships and additional projects
+
+  - **[RIVERSCALE](https://www.fct.pt/)** (2020–2021) — FCT research fellowship at [CIBIO-InBIO](https://cibio.up.pt/), University of Porto. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
+  - **[ERASMUS+](https://erasmus-plus.ec.europa.eu/)** (2019–2020) — Exchange at the [Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/). Courses included environmental geochemistry, GIS, plant ecology, river ecology, and bird ecology.
+  - **Go East Summer School** (2019) — [DAAD](https://www.daad.de/) scholarship at Lake Baikal, Russia. Summer school on conservation and ecology of the Lake Baikal region.
+  - **Internship in Geology and Geophysics** (2016) — [DAAD](https://www.daad.de/) scholarship at [UFRN](https://www.ufrn.br/), Natal, Brazil. Analysis of rock samples for climate reconstruction using fossil ostracod records.
+  - **[InvaPact III](https://www.institut-pascal.fr/)** (2025) — Workshop at [Institut Pascal, Université Paris-Saclay](https://www.universite-paris-saclay.fr/), Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts.
+  - **[InvaPact II](https://www.institut-pascal.fr/)** (2024) — Workshop at Institut Pascal, Paris, France. Worked in an interdisciplinary team to develop a shared framework for classifying and comparing invasive-species impacts.
+  - **[INOVEC](https://www.inovec.eu/)** (2025) — Field testing of mosquito traps with [Biogents AG](https://eu.biogents.com/), Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance.
+  - **[IWR Summer School](https://www.iwr.uni-heidelberg.de/)** (2024) — *Applied Modelling of Climate-Sensitive Infectious Diseases*, [Interdisciplinary Center for Scientific Computing](https://www.iwr.uni-heidelberg.de/), Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
+  - **[AIR Centre](https://www.aircentre.io/)** (2023) — Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural [early-warning model](https://www.aircentre.io/app/sap/).
+
+  ## Conferences and science communication
+
+  - **[Deutschlandfunk Nova](https://www.deutschlandfunknova.de/)** (2026) — Radio interview: [So kommen Stechmücken durch den Winter](https://www.deutschlandfunknova.de/beitrag/insekten-so-kommen-stechmuecken-durch-den-winter).
+  - **[Parasitology in Portugal](https://miguelprudencio.com/)** (2026) — Oral presentation: [Trait-based assessment of invasive mosquitoes — which species are likely to spread next?](https://miguelprudencio.com/wp-content/uploads/2026/03/ParasitologySimposyum26_AbstractBook.pdf)
+  - **[NOVA Health Conference](https://novahealth.unl.pt/)** (2024) — Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf).
+  - **[Neobiota Conference](https://neobiota.net/)** (2024) — Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf).
+  - **IyrCIS Conference** (2024) — Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-).
+  - **[TiBe Conference](https://www.tibe.org/)** (2023) — Poster presentation: [Invasion patterns of alien disease vector mosquitoes worldwide](https://drive.google.com/file/d/1Sp1OJe7K_T-slImjc8w4OMFJR629cZ_P/view).
+
 show_outro: true
 outro: |
   Get in touch if you are interested in collaborating!
