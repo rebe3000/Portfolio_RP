@@ -16,15 +16,15 @@ intro: |
   ## Education
 
   - **PhD in Global Health and Tropical Medicine**<span class="meta-dot">∙</span>[NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<span class="meta-dot">∙</span>2022–2026<br>
-  Thesis title: "Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"
+  Thesis title: *Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes*
   - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2017–2021<br>
-  Thesis title: "Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"
+  Thesis title: *Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands*
   - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>[University of Münster](https://www.uni-muenster.de/)<span class="meta-dot">∙</span>2014–2017<br>
-  Thesis title: "Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher"
+  Thesis title: *Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher*
 
   ## Scholarships and additional projects
 
-  - **INOVEC**<span class="meta-dot">∙</span>2025 <br>
+  - **INOVEC/  Horizon**<span class="meta-dot">∙</span>2025 <br>
   Field testing of mosquito traps with Biogents AG, Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance in high and low vector abundance settings. 
   - **[InvaPact III](https://www.biodiversitydynamics.fr/invapact3/)**<span class="meta-dot">∙</span>2025 <br>
   Workshop in Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts. 
