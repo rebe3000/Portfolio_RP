@@ -13,15 +13,7 @@ location: "Natal, Brazil"
 coordinates: "-5.841656, -35.195592"
 map_url: "https://maps.app.goo.gl/Ak78pVsmYar8gmKE9"
 map_embed: "https://www.google.com/maps?q=-5.841656,-35.195592&z=5&output=embed"
-feature_alt: "Research group at the Federal University of Rio Grande do Norte"
-gallery:
-  - file: gallery-sem-fossil.webp
-    alt: "Scanning electron microscope image of a fossil microfossil from the Santana Formation"
-  - file: gallery-fossil-tooth.webp
-    alt: "SEM image of a fossil tooth with characteristic spiny scales"
-  - file: gallery-sem-grid.webp
-    alt: "Grid of SEM images documenting fossil specimens from processed rock samples"
-    wide: true
+feature_alt: "SEM image of an ostracod microfossil from the Santana Formation"
 ---
 
 During a research internship at the Federal University of Rio Grande do Norte
