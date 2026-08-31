@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Hello :)"
 number_featured: 0
 use_featured: false
 number_categories: 0
@@ -21,15 +21,15 @@ intro: |
 
   ## Scholarships and additional projects
 
-  - **[RIVERSCALE](https://www.fct.pt/)** (2020–2021) — FCT research fellowship at [CIBIO-InBIO](https://cibio.up.pt/), University of Porto. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal.
-  - **[ERASMUS+](https://erasmus-plus.ec.europa.eu/)** (2019–2020) — Exchange at the [Faculty of Sciences, University of Lisbon](https://ciencias.ulisboa.pt/). Courses included environmental geochemistry, GIS, plant ecology, river ecology, and bird ecology.
-  - **Go East Summer School** (2019) — [DAAD](https://www.daad.de/) scholarship at Lake Baikal, Russia. Summer school on conservation and ecology of the Lake Baikal region.
-  - **Internship in Geology and Geophysics** (2016) — [DAAD](https://www.daad.de/) scholarship at [UFRN](https://www.ufrn.br/), Natal, Brazil. Analysis of rock samples for climate reconstruction using fossil ostracod records.
-  - **[InvaPact III](https://www.institut-pascal.fr/)** (2025) — Workshop at [Institut Pascal, Université Paris-Saclay](https://www.universite-paris-saclay.fr/), Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts.
-  - **[InvaPact II](https://www.institut-pascal.fr/)** (2024) — Workshop at Institut Pascal, Paris, France. Worked in an interdisciplinary team to develop a shared framework for classifying and comparing invasive-species impacts.
-  - **[INOVEC](https://www.inovec.eu/)** (2025) — Field testing of mosquito traps with [Biogents AG](https://eu.biogents.com/), Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance.
-  - **[IWR Summer School](https://www.iwr.uni-heidelberg.de/)** (2024) — *Applied Modelling of Climate-Sensitive Infectious Diseases*, [Interdisciplinary Center for Scientific Computing](https://www.iwr.uni-heidelberg.de/), Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases.
-  - **[AIR Centre](https://www.aircentre.io/)** (2023) — Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural [early-warning model](https://www.aircentre.io/app/sap/).
+  - **INOVEC** — Field testing of mosquito traps with Biogents AG, Germany. Planned and conducted a one-month field experiment comparing CO₂ sources for mosquito traps and assessing their suitability for vector surveillance. ∙ 2025
+  - **InvaPact III** — Workshop at Institut Pascal, Université Paris-Saclay, Girona, Spain. Collaborated with more than 60 international researchers to evaluate AI-based evidence-extraction methods and analyse a database on invasive-species impacts. ∙ 2025
+  - **InvaPact II** — Workshop at Institut Pascal, Paris, France. Worked in an interdisciplinary team to develop a shared framework for classifying and comparing invasive-species impacts. ∙ 2024
+  - **IWR Summer School** — *Applied Modelling of Climate-Sensitive Infectious Diseases*, Interdisciplinary Center for Scientific Computing, Heidelberg University. Advanced training in computational approaches for modelling climate-sensitive infectious diseases. ∙ 2024
+  - **AIR Centre** — Research internship, Lisbon / Terceira, Portugal. Integrated spatio-temporal spore, IoT-sensor, environmental, and remote-sensing data to improve an agricultural early-warning model. ∙ 2023
+  - **RIVERSCALE** — FCT research fellowship at CIBIO-InBIO, University of Porto. Applied multivariate statistical methods to investigate and predict the distribution of invasive alien plants in riparian environments across continental Portugal. ∙ 2020–2021
+  - **ERASMUS+** — Exchange at the Faculty of Sciences, University of Lisbon. Courses included environmental geochemistry, GIS, plant ecology, river ecology, and bird ecology. ∙ 2019–2020
+  - **Go East Summer School** — DAAD scholarship at Lake Baikal, Russia. Summer school on conservation and ecology of the Lake Baikal region. ∙ 2019
+  - **Internship in Geology and Geophysics** — DAAD scholarship at UFRN, Natal, Brazil. Analysis of rock samples for climate reconstruction using fossil ostracod records. ∙ 2016
 
   ## Conferences and science communication
 
