@@ -23,7 +23,7 @@ intro: |
   Thesis title: *"Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"*
   - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>2014–2017<br>
   [University of Münster](https://www.uni-muenster.de/Landschaftsoekologie/en/index.shtml/)<br>
-  Thesis title: *"Spatio-temporal variability of CH{\footnotesize 4} and CO₂ emissions in the small shallow lake Heideweiher"*
+  Thesis title: *"Spatio-temporal variability of CH₄ and CO₂ emissions in the small shallow lake Heideweiher"*
 
   ## Scholarships and additional projects
 
