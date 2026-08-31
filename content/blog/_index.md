@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "Stories"
 description: "Field notes from research projects, excursions, and scientific work."
 layout: list-grid
 paginate: 12

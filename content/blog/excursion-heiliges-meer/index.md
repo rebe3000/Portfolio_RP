@@ -11,6 +11,7 @@ location: "Heiliges Meer, Germany"
 coordinates: "52.350816, 7.635219"
 map_url: "https://maps.app.goo.gl/xqLqbbDuXMP8MoTi9"
 map_embed: "https://www.google.com/maps?q=52.350816,7.635219&z=12&output=embed"
+feature_alt: "24-hour water quality profile from multiprobe measurements at Heiliges Meer"
 ---
 
 Application of various biogeochemical methods: flow chamber measurements, Los

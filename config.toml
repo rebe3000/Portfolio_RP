@@ -60,7 +60,7 @@ enableEmoji = true
   weight = 2
 
 [[menu.header]]
-  name = "Blog"
+  name = "Stories"
   title = "Projects and excursions"
   url = "/blog/"
   weight = 3
