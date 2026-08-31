@@ -15,15 +15,17 @@ intro: |
 
   ## Education
 
-  - **PhD in Global Health and Tropical Medicine**<span class="meta-dot">∙</span>2022–2026<br>
+  <ul class="education-list">
+  <li><i class="fas fa-graduation-cap fa-fw mr2"></i><strong>PhD in Global Health and Tropical Medicine</strong><span class="meta-dot">∙</span>2022–2026<br>
   [NOVA University Lisbon, IHMT NOVA](https://www.ihmt.unl.pt/) / FCT / [AIR Centre](https://www.aircentre.io/)<br>
-  Thesis title: *"Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"*
-  - **MSc in Landscape Ecology**<span class="meta-dot">∙</span>2017–2021<br>
+  Thesis title: *"Analysis of human-mediated changes in the global distribution of disease-vector mosquitoes"*</li>
+  <li><i class="fas fa-graduation-cap fa-fw mr2"></i><strong>MSc in Landscape Ecology</strong><span class="meta-dot">∙</span>2017–2021<br>
   [University of Münster](https://www.uni-muenster.de/)<br>
-  Thesis title: *"Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"*
-  - **BSc in Landscape Ecology**<span class="meta-dot">∙</span>2014–2017<br>
+  Thesis title: *"Temporal transferability of habitat models on the occurrence of ilex hairstreak (Satyrium ilicis) in active coppice woodlands"*</li>
+  <li><i class="fas fa-graduation-cap fa-fw mr2"></i><strong>BSc in Landscape Ecology</strong><span class="meta-dot">∙</span>2014–2017<br>
   [University of Münster](https://www.uni-muenster.de/)<br>
-  Thesis title: *"Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher"*
+  Thesis title: *"Spatio-temporal variability of CH4 and CO2 emissions in the small shallow lake Heideweiher"*</li>
+  </ul>
 
   ## Scholarships and additional projects
 
@@ -53,13 +55,13 @@ intro: |
   - **Parasitology in Portuga**<span class="meta-dot">∙</span>2026<br>
   Oral presentation: [Trait-based assessment of invasive mosquitoes — which species are likely to spread next?](https://miguelprudencio.com/wp-content/uploads/2026/03/ParasitologySimposyum26_AbstractBook.pdf)
   - **NOVA Health Conference**<span class="meta-dot">∙</span>2024<br>
-  <span class="meta-dot">∙</span>Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf)
+  Oral presentation: [Vector-borne diseases: The reason behind its increase](https://novahealth.unl.pt/wp-content/uploads/2024/11/Abstract_Book.pdf)
   - **Neobiota Conference)**<span class="meta-dot">∙</span>2024<br>
-  <span class="meta-dot">∙</span>Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf)
+  Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://dspace.uevora.pt/rdpc/bitstream/10174/37435/1/NEOBIOTA2024abstractBook.pdf)
   - **IyrCIS Conference**<span class="meta-dot">∙</span>2024<br>
-  <span class="meta-dot">∙</span>Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-)
+  Oral presentation: [Database on the global human-mediated introduction of vector mosquitoes](https://youtu.be/sYSzNgUhXgo?si=l7Sy_0bpp3cYIn9-)
   - **TiBe Conference**<span class="meta-dot">∙</span>2023<br>
-  <span class="meta-dot">∙</span>Poster presentation: [Invasion patterns of alien disease vector mosquitoes worldwide](https://drive.google.com/file/d/1Sp1OJe7K_T-slImjc8w4OMFJR629cZ_P/view)
+  Poster presentation: [Invasion patterns of alien disease vector mosquitoes worldwide](https://drive.google.com/file/d/1Sp1OJe7K_T-slImjc8w4OMFJR629cZ_P/view)
 
 show_outro: true
 outro: |
