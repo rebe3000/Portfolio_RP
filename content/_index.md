@@ -1,16 +1,16 @@
 ---
 title: "Rebecca Pabst"
-subtitle: "Researcher in spatial ecology, invasive mosquito vectors, and disease risk"
+subtitle: "Landscape ecologist · PhD · spatial data & modelling"
 text_align_left: true
 images:
   - img/landing-profile.png
 image_left: false
 description: |
-  I am a researcher at the Institute of Hygiene and Tropical Medicine, NOVA University Lisbon (IHMT NOVA). My work lies at the intersection of landscape ecology, biological invasions, data science, and public health.
+  I'm a landscape ecologist, with a PhD in Global Health and Tropical Medicine at NOVA in Lisbon. Most of what I do is working with data: bringing together information from different sources, checking it, modelling patterns in R, visualisation, writing papers and speaking at conferences.
 
-  I study the global spread of invasive mosquitoes that transmit human diseases. By bringing together fragmented information from multiple sources, I reconstruct patterns of mosquito expansion, investigate the factors driving their spread, forecast which mosquitoes have the potential to spread next, and how mosquito invasions reshape potential disease transmission worldwide.
+  I'm interested in geospatial analysis, especially where environment, species invasions, and public health meet. In my doctoral thesis, I examined the global spread of disease-carrying mosquitoes and how their spread is changing the transmission of diseases worldwide; these approaches can also be applied to other spatial issues.
 
-  More broadly, I am interested in how globalisation, climate and environmental change will reshape the distribution of mosquito vectors and the future global burden of mosquito-borne diseases.
+  When I am not outdoors running or climbing, I love to solve coding questions and to learn and apply new things, especially with the help of AI.
 type: home
 show_social_links: true
 action_label: "More about me →"

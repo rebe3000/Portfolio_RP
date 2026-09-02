@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Rebecca Pabst"
   orgLocal = "Lisbon, Portugal"
-  description = "Rebecca Pabst — researcher in spatial ecology, invasive mosquito vectors, and disease risk at IHMT NOVA, Lisbon."
+  description = "Rebecca Pabst — landscape ecologist and PhD researcher in Lisbon. Working with spatial data, modelling, GIS, ecology, species invasions, and public health."
   sharing_image = "/img/landing-profile.png"
   mainSections = ["research"]
   navallcaps = true
